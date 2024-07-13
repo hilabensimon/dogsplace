@@ -1,0 +1,98 @@
+﻿
+
+
+body {
+    line-height: 1.6;
+    color: antiquewhite;
+    background-image: url('../images/newBG.jpg');
+    background-size: 100%;
+}
+
+
+main {
+    margin: 8rem;
+    text-align: center;
+}
+
+/*###############################################*/
+body {
+    font-family: "Amatic SC", sans-serif;
+    line-height: 1.6;
+    color: antiquewhite;
+    background-color: transparent;
+    background-size: cover;
+}
+
+
+
+.aboutHr {
+    margin: 0.94rem 9.38rem;
+}
+
+section {
+    padding: 2.5rem;
+    background-color: transparent;
+    color: antiquewhite;
+}
+
+p {
+    font-family: Tahoma;
+    font-size: 1rem;
+}
+
+#aboutSettings {
+    background-color: white;
+    height: auto;
+    width: fit-content;
+    position: center center;
+    border-radius: 0.63rem;
+    padding-bottom: 5%;
+}
+
+#dogsPlaceTitle {
+    color: black;
+}
+
+#aboutTitle {
+    color: black;
+    font-size: 1.75rem;
+}
+
+#aboutTxt {
+    font-size: 1.5rem;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+#aboutTxt2 {
+    font-size: 1rem;
+    font-family: Tahoma;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+#screens {
+    font-size: 1.5rem;
+}
+
+#stepsList {
+    padding: 47%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    list-style-image: url(../images/PAL.png);
+    background-size: 1.25rem 1.25rem;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 1rem;
+    z-index: 1000;
+}

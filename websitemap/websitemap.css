@@ -1,0 +1,58 @@
+﻿
+
+
+body {
+    line-height: 1.6;
+    color: antiquewhite;
+    background-image: url('../images/newBG.jpg');
+    background-size: 100%;
+    font-family: "Amatic SC", sans-serif;
+    background-size: cover;
+    color:black;
+}
+
+main section {
+    background-color: transparent;
+    padding: 1rem;
+    margin: 6.25rem;
+    text-align: center;
+}
+
+/*###############################################*/
+
+
+
+
+section {
+    padding: 2.5rem;
+    background-color: transparent;
+    color: antiquewhite;
+}
+
+p {
+    font-family: Tahoma;
+    font-size: 1rem;
+}
+
+a {
+    color: black;
+}
+
+
+
+#siteMap {
+    background-color: white;
+    height: auto;
+    width: fit-content;
+    margin: auto;
+    border-radius: 0.63rem;
+    padding-bottom: 5%;
+    min-height: 50vh;
+}
+
+#siteMapTitle {
+    color: black;
+    font-size: 1.75rem;
+}
+
+
